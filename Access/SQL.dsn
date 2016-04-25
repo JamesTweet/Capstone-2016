@@ -1,0 +1,10 @@
+[ODBC]
+DRIVER=SQL Server
+UID=James
+Network=DBMSSOCN
+DATABASE=MS_Access_Database
+WSID=CLIENT
+APP=Microsoft Office 2016
+Trusted_Connection=Yes
+SERVER=sql
+Description=Connection to Failover Cluster

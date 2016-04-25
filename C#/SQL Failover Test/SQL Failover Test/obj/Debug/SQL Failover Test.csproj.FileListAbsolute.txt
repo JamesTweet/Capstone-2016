@@ -1,0 +1,6 @@
+c:\users\james.test\documents\visual studio 2015\Projects\SQL Failover Test\SQL Failover Test\bin\Debug\SQL Failover Test.exe.config
+c:\users\james.test\documents\visual studio 2015\Projects\SQL Failover Test\SQL Failover Test\bin\Debug\SQL Failover Test.exe
+c:\users\james.test\documents\visual studio 2015\Projects\SQL Failover Test\SQL Failover Test\bin\Debug\SQL Failover Test.pdb
+c:\users\james.test\documents\visual studio 2015\Projects\SQL Failover Test\SQL Failover Test\obj\Debug\SQL Failover Test.csprojResolveAssemblyReference.cache
+c:\users\james.test\documents\visual studio 2015\Projects\SQL Failover Test\SQL Failover Test\obj\Debug\SQL Failover Test.exe
+c:\users\james.test\documents\visual studio 2015\Projects\SQL Failover Test\SQL Failover Test\obj\Debug\SQL Failover Test.pdb
